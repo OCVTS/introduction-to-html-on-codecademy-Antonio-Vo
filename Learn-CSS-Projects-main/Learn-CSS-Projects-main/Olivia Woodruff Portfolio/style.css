@@ -1,0 +1,26 @@
+/* Banner */
+.header{
+    background-color: cornflowerblue;
+    text-align: center;
+   }
+   /* text on the banner */
+   .about-me{
+     font-size: 20px;
+     opacity: 50%;
+   }
+   
+   .title{
+     font-weight: bold;
+   }
+   
+   h1{
+     color: azure;
+   }
+   
+   body{
+     font-family: Georgia;
+     background: url(https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png) no-repeat center center fixed;
+     background-size: cover;
+   }
+   
+   

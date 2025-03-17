@@ -1,0 +1,28 @@
+img{
+    height: 150px;
+}
+  .description{
+    font-size: 20px;
+  }
+  
+  #cook-time{
+    font-weight: bold;
+  }
+  /* makes the time to cook gray */
+  p.time{
+    color: gray;
+  }
+  
+  .ingredients li {
+    list-style: square;
+  }
+  .external-link{
+    color: seagreen;
+  }
+  /* set the font-family for the entire page. (<body> would have been a better choice) */
+  h1,
+  h2,
+  p,
+  li{
+    font-family: Arial, Helvetica, sans-serif;
+  }
