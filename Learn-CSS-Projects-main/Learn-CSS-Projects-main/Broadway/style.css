@@ -63,7 +63,7 @@ html, body {
     padding: 0 10px;
     text-align: center;
   }
-  
+  /* backround image */
   .jumbotron {
     height: 800px;
     background-image: url("https://content.codecademy.com/projects/broadway/bg.jpg");
